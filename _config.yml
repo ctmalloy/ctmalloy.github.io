@@ -4,6 +4,7 @@ description:       Information Technology
 author:            Conner Malloy
 baseurl:           "/"
 url:               "http://ctmalloy.github.io"
+tagline:           This is Sparta
 
 # Social Profiles
 twitter_username:  connermalloy
